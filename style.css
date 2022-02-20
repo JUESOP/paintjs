@@ -53,6 +53,7 @@ body {
 }
 
 .controls__colors .controls__color {
+    margin: 0 3px; 
     width: 50px;
     height: 50px;
     border-radius: 25px;

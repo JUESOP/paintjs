@@ -2,7 +2,7 @@ const canvas = document.getElementById("jsCanvas");
 const ctx = canvas.getContext("2d"); 
 const colors = document.getElementsByClassName("jsColor");
 const range = document.getElementById("jsRange");
-const mode = document.getElementById("jsMode");
+const mode = document.getElementById("jsMode"); 
 const reset = document.getElementById("jsReset");
 const saveBtn = document.getElementById("jsSave");
 
